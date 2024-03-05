@@ -1,0 +1,7 @@
+name: env_2
+dependencies:
+  - python=3.9.5
+  - requests=2.26.0
+  - chromium=latest
+  - pytest
+  - selenium
